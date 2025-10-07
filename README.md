@@ -1,7 +1,7 @@
 # Data Cleaning 
 A robust Python/Pandas workflow for cleaning the Global Video Game Sales dataset, focusing on missing data imputation and preparation for sales analysis.
- ##Global Video Game Sales Data Cleaning Project ✨
-This repository contains a reproducible Python workflow focused on transforming the raw Kaggle Video Game Sales dataset into a clean, analysis-ready format. The accompanying Jupyter notebook (data cleaning.ipynb) demonstrates essential data quality checks and imputation techniques.
+ ##Global Video Game Sales Data Cleaning Project
+ ✨This repository contains a reproducible Python workflow focused on transforming the raw Kaggle Video Game Sales dataset into a clean, analysis-ready format. The accompanying Jupyter notebook (data cleaning.ipynb) demonstrates essential data quality checks and imputation techniques.
 
  Technologies Used
 The analysis and cleaning process was performed using the following core Python libraries:
